@@ -1,0 +1,88 @@
+section {
+    padding: 20px 20px;
+    border: 1px solid #000;
+    margin-bottom: 5px;
+  }
+  
+  h3.fontlabel {
+    text-decoration: underline;
+  }
+  
+  .box {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .colorbox {
+    padding: 25px 100px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    width: 30%;
+  }
+  
+  .purple {
+    background-color: #6F38C5;
+  }
+  
+  .blue {
+    background-color: #87A2FB;
+  }
+  
+  .green {
+    background-color: #ADDDD0;
+  }
+  
+  .gray {
+    background-color: #EEEEEE;
+  }
+  
+  .orange {
+    background-color: #EC9B3B;
+  }
+  
+  .yellow {
+    background-color:#F7D716;
+  }
+  
+  .merrinormal {
+    font-family: 'Merriweather', serif;
+  }
+  
+  .merriitalic {
+    font-style: italic;
+  }
+  
+  .worknormal {
+    font-family: 'Work Sans', sans-serif;
+  }
+  
+  .workmedium {
+    font-weight: 500;
+  }
+  
+  .workbold {
+    font-weight: 800;
+  }
+  
+  .oswald {
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .oswaldlight {
+    font-weight: 300;
+  }
+  
+  .oswaldmedium {
+    font-weight: 500;
+  }
+  
+  .oswaldbold {
+    font-weight: 700;
+  }
+  
+  .fontbox {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    width: 45%;
+  }
